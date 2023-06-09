@@ -32,7 +32,6 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [https://leqsar.github.io/ip-tracker/](https://leqsar.github.io/ip-tracker/)
 
 ## My process
